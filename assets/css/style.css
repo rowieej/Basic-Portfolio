@@ -1,0 +1,165 @@
+* {
+  box-sizing: border-box;
+}
+body {
+	background: #efeee7;	
+	font: Helvetica, Arial, 'Helvetica Neue', sans-serif;
+	color: #777; 
+}
+
+
+
+li {
+	display: inline;
+	color: #777;
+}
+ li a{
+	color: #777;
+	text-decoration: none;
+}
+
+input{
+	padding: 5px;
+	}
+
+h2{
+	color: #4aaaa5;
+}
+
+#wrapper{
+	width: 960px;
+	height: 56px;
+	margin: 0 auto;
+	background: #fff;
+	margin-bottom: 15px;
+		
+}	
+.bigone{
+	margin: 0px 193px;
+	min-width: 1000px;
+}
+.myNameHeader{
+	float:left;
+	background: #4aaaa5;
+	width: 200px;
+	color: #fff;
+	font-size: 16px;
+	font-family: Georgia, Times, Times New Roman, serif;
+	padding: 20px;
+	text-align: center;
+
+}
+
+#navigationBar {
+	float: right;
+	position: relative;
+	margin: 20px;
+  
+ }
+
+#body{
+	margin: center;
+	width: 650px;
+}
+
+}
+#bioImage {
+	float: left;
+	margin: 10px;
+	}
+
+.img200 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 10px;
+
+}
+
+.biography{
+	clear: both;
+	position: relative;
+}
+.myImage{
+	float: left;
+	margin-left: 10px;
+
+}
+.mainbio{
+	border: solid 1px;
+	width: 610px;
+}
+.container{
+	clear:both;
+	float: left;
+	border: solid 1px;
+	padding: 40px;
+	width: 650px;
+	background: #fff;
+	margin-left: 40px;
+}
+
+.portfolio{
+	border: solid 1px;
+	width: 610px;
+}
+.connect{
+	list-style-type: none;
+	border: solid 1px;
+	background: #fff;
+	width: 270px;
+	float:right;
+	margin-right: 40px;
+	padding: 15px;
+}
+.floatLeft{
+	float: left;
+	
+}
+.floatLeftmargin{
+	margin-left: 10px;
+}
+.footer{
+	clear: both;
+	background: gray;
+	color: #666666;
+	padding: 20px;
+	text-align: center;
+	border-top: 5px solid #4aaaa5;
+	margin-top: 20px;
+	color: #fff;
+	font-size: 10px;
+	
+}
+.githubLogo{
+	width: 60px;
+	height: 60px;
+}
+
+.linkedinLogo{
+	width: 60px;
+	height: 60px;
+}
+
+.stackoverflowLogo{
+	width: 60px;
+	height: 60px;
+}
+
+
+.club{
+	margin-left: 10px;
+	width: 200px;
+	height: 200px;
+
+}
+
+.music{
+	position: relative;
+	margin-right: 10px;
+	width: 200px;
+	height: 200px;
+	
+
+	
+}
