@@ -28,15 +28,16 @@ h2{
 
 #wrapper{
 	width: 960px;
-	height: 56px;
+	height: 57px;
 	margin: 0 auto;
 	background: #fff;
 	margin-bottom: 15px;
+	border-bottom: 1px #777 solid;
 		
 }	
 .bigone{
 	margin: 0px 193px;
-	min-width: 1000px;
+	min-width: 1039px;
 }
 .myNameHeader{
 	float:left;
@@ -44,9 +45,10 @@ h2{
 	width: 200px;
 	color: #fff;
 	font-size: 16px;
-	font-family: Georgia, Times, Times New Roman, serif;
+	font-family: "Georgia, Times, Times New Roman", serif;
 	padding: 20px;
 	text-align: center;
+	border-bottom: 1px #777 solid;
 
 }
 
