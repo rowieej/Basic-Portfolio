@@ -1,1 +1,1 @@
-<?php include_once("status/index.html"); ?>
+<?php include_once("index.html"); ?>
