@@ -25,6 +25,9 @@ input{
 h2{
 	color: #4aaaa5;
 }
+p{
+	line-height: 1.2em;
+}
 
 footer {
     left: 0;
