@@ -145,7 +145,7 @@ h2{
 	height: 60px;
 }
 
-.imageBoxHangman{
+.imageBox{
 	clear: both;
 	position: absolute;
 	display: inline-block;
@@ -160,7 +160,6 @@ h2{
   text-align: center;
   text-decoration: none;
   
-	
 }
 .hangman{
 	margin-left: 10px;
@@ -169,79 +168,18 @@ h2{
 
 }
 
-.imageBoxRPG{
-  clear: both;
-	position: absolute;
-	display: inline-block;
-  background: #4aaaa5;
-  float: left;
-  padding: 15px;
-  color: #eee;
-  font-size: 25px;
-  width: 240px;
-  margin-top: 100px;
-  margin-left: 10px;
-  text-align: center;
-  text-decoration: none;
-}
-
 .rpg{
 	margin-left: 10px;
 	width: 240px;
 	height: 220px;
 }
 
-.imageBoxTrivia{
-  clear: both;
-  position: absolute;
-  display: inline-block;
-  background: #4aaaa5;
-  float: left;
-  padding: 15px;
-  color: #eee;
-  font-size: 25px;
-  width: 240px;
-  margin-top: 100px;
-  margin-left: 10px;
-  text-align: center;
-  text-decoration: none;
-}
 .trivia {
 	margin-left: 10px;
 	width: 240px;
 	height: 220px;
 }
-.imageBoxRutgers{
-  clear: both;
-  position: absolute;
-  display: inline-block;
-  background: #4aaaa5;
-  float: left;
-  padding: 15px;
-  color: #eee;
-  font-size: 25px;
-  width: 240px;
-  margin-top: 100px;
-  margin-left: 10px;
-  text-align: center;
-  text-decoration: none;
-}
 
-.imageRocksPaperScissors{
-  clear: both;
-  position: absolute;
-  display: inline-block;
-  background: #4aaaa5;
-  float: left;
-  padding: 15px;
-  color: #eee;
-  font-size: 25px;
-  width: 240px;
-  margin-top: 100px;
-  margin-left: 10px;
-  text-align: center;
-  text-decoration: none;
-}
 .rocks {
 	margin-left: 10px;
 	width: 240px;
