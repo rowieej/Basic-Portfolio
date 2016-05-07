@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+
 body {
 	background: #efeee7;
 	font: Helvetica, Arial, 'Helvetica Neue', sans-serif;
@@ -11,6 +12,7 @@ li {
 	display: inline;
 	color: #777;
 }
+ 
  li a{
 	color: #777;
 	text-decoration: none;
@@ -18,10 +20,17 @@ li {
 
 input{
 	padding: 5px;
-	}
+}
 
 h2{
 	color: #4aaaa5;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    height: 20px;
+    width: 100%;
 }
 
 #wrapper{
@@ -31,12 +40,13 @@ h2{
 	background: #fff;
 	margin-bottom: 15px;
 	border-bottom: 1px #777 solid;
-		
-}	
+}
+
 .bigone{
 	margin: 0px 193px;
 	min-width: 1039px;
 }
+
 .myNameHeader{
 	float:left;
 	background: #4aaaa5;
@@ -47,22 +57,19 @@ h2{
 	padding: 20px;
 	text-align: center;
 	border-bottom: 1px #777 solid;
-
 }
 
 #navigationBar {
 	float: right;
 	position: relative;
-	margin: 20px;
-  
- }
+	margin: 20px;  
+}
 
 #body{
 	margin: center;
 	width: 650px;
 }
 
-}
 #bioImage {
 	float: left;
 	margin: 10px;
@@ -73,7 +80,6 @@ h2{
 	height: 200px;
 	float: left;
 	margin: 10px;
-
 }
 
 .biography{
@@ -137,7 +143,6 @@ h2{
 	margin-top: 20px;
 	color: #fff;
 	font-size: 10px;
-	
 }
 
 .logo{
@@ -185,3 +190,4 @@ h2{
 	width: 240px;
 	height: 220px;
 }
+
